@@ -25,18 +25,6 @@
 
 ---
 
-## 🖥️ Interfaccia Utente
-L'applicazione segue il protocollo **SYNAPSE_INTERFACE**, un design minimalista basato su dati e feedback visivi immediati:
-
-```text
-┌─── 🖥️ SYNAPSE_INTERFACE ────────────────────────────┐
-│ [STATUS]: { TRUST: ▓▓▓░░ | TENSION: ▓░░░░ | STAMINA: ▓▓▓▓░ }
-│ [VIBE]: #6200EE | [MODE]: PURE_DIALOGUE | [VER]: 3.6.1
-└───────────────────────────────────────────────────────┘
-```
-
----
-
 ## 🚀 Tecnologie Utilizzate
 - **Frontend**: React 18 + Vite
 - **AI Engine**: Google Gemini AI (@google/genai)
@@ -82,7 +70,3 @@ Synapse OS è configurato per proteggere i tuoi dati. Il file `.env` è inserito
 
 ## ⚖️ Disclaimer
 *Synapse OS è uno strumento di simulazione a scopo di intrattenimento e formazione. I risultati dei report analitici sono generati dall'intelligenza artificiale e devono essere interpretati come suggerimenti creativi, non come consulenza psicologica professionale.*
-
----
-
-**[SYSTEM_MANDATE]**: *Domina ogni interazione. Non uscire mai dal personaggio.* 🔘
